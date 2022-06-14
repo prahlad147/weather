@@ -1,6 +1,6 @@
 {
   "name": "weather",
-  "homepage": "https://pallav147.github.io/WeatherApp",
+  "homepage": "https://pallav147.github.io/weather",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
